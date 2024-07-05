@@ -7,10 +7,9 @@
 
 # Public Website **Developer**
 
-Dokumen ini berisi penjelasan mengenai tata cara kerja, perangkat yang digunakan dan hal hal lain yang relevan dengan pekerjaan sehari hari yang dilakukan oleh tim pengembang di Public Website.
+Dokumen ini berisi penjelasan mengenai tata cara kerja, perangkat yang digunakan dan hal hal lain yang relevan dengan pekerjaan sehari hari yang dilakukan oleh tim pengembang di Public Website
 
-</br>
-</br>
+---
 
 ### Daftar Isi
 
