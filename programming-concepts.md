@@ -29,9 +29,9 @@ Konsep *Clean Code* mempunyai beberapa penafsiran dan karakteristik, di antarany
 
 Bacaan tambahan :
 
-[Clean Code : A Handbook of Agile Software Craftmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+[Clean Code : A Handbook of Agile Software Craftmanship](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[High Quality Code for Better Programmer](https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer)
+[High Quality Code for Better Programmer](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
 ---
 
@@ -57,11 +57,11 @@ Prinsip prinsip untuk membuat kode yang mudah dibaca adalah :
 
 Bacaan lebih lanjut :
 
-[The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
+[The Art of Readable Code](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[Write Elegant Code](https://code.tutsplus.com/articles/writing-elegant-and-readable-code--mobile-21514)
+[Write Elegant Code](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[Write Cleaner Code](https://www.codeschool.com/blog/2015/09/29/10-ways-to-write-cleaner-code/)
+[Write Cleaner Code](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
 ---
 
@@ -108,7 +108,7 @@ Menekankan pada penghapusan duplikasi kode yang tidak perlu dalam proyek pengemb
 
 Mari kita jelajahi manfaat yang ditawarkan oleh prinsip DRY.
 
-- **Pengurangan Kompleksitas**
+- **Complexity Reduction**
 Pertama dan terutama, prinsip ini mengurangi kompleksitas kode dengan menghindari pengulangan yang tidak perlu. Hal ini membuat kode lebih mudah dibaca, jelas, dan lebih mudah dipahami oleh pengembang. Selain itu, ini menyederhanakan pemeliharaan kode, karena modifikasi dan perbaikan hanya perlu dilakukan di satu tempat, bukan di beberapa bagian kode.
 
 - **Elimination of Duplicate Code**
@@ -117,7 +117,7 @@ Untuk menghindari duplikasi kode, ada beberapa teknik yang dapat diterapkan oleh
 - **Grouping by Functionality**
 Penggunaan kelas dan pewarisan dapat membantu merangkum fungsi umum dan menggunakannya kembali dalam subkelas tertentu.
 
-- **Penggunaan Kembali Kode**
+- **Code Reusability**
 Terakhir, penggunaan modul, atau kerangka kerja dapat membantu dalam menggunakan kembali kode yang telah ditulis dan diuji oleh pengembang lain, sehingga tidak perlu mengulang dari awal.
 
 > **Contoh** : Misalkan kita sedang mengembangkan aplikasi manajemen kontak dengan fitur untuk menambah, mengubah, dan menghapus kontak. Daripada mengulang kode validasi data yang sama di beberapa tempat di dalam program, kita bisa mengekstrak logika validasi ini ke dalam sebuah fungsi atau kelas utilitas yang terpisah. Dengan cara ini, setiap kali kita perlu memvalidasi data kontak, kita cukup memanggil fungsi atau kelas utilitas tersebut, menghindari duplikasi kode.
@@ -141,9 +141,9 @@ Prinsip desain perangkat lunak yang mendorong pemisahan dan mengurangi ketergant
 
 Bacaan lebih lanjut :
 
-[SOLID : Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+[SOLID : Object Oriented Design](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[SOLID, GRASP and other principles of OOP](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o)
+[SOLID, GRASP and other principles of OOP](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
 ---
 
