@@ -50,6 +50,7 @@ Untuk repository yang tidak akan mengalami banyak pengembangan ( one and done ),
 - Gunakan pesan *commit* yang relevan dan masukkan *tag* yang sesuai.
   - [add] deskripsi penambahan berkas yang dilakukan
   - [change] deskripsi *update* yang dilakukan
+  - [style] deskripsi untuk penambahan atau perbaikan pada bagian *style*
   - [fix] deskripsi perbaikan yang dilakukan
   - [refact] deskripsi perubahan yang lebih optimal
 </br>
@@ -57,9 +58,10 @@ Untuk repository yang tidak akan mengalami banyak pengembangan ( one and done ),
 - [Rewrite Commit History](https://git-scm.com/book/id/v2/Git-Tools-Rewriting-History)
 - [Squash Published Commits](https://stackoverflow.com/questions/5667884/how-to-squash-commits-in-git-after-they-have-been-pushed)
 
-- **Template Pull Request**
+#### Template Pull Request
 
-```## Explain what your PR does
+```
+## Explain what your PR does
 
 ## To which Ora's link' ticket is PR dedicated?
 
