@@ -9,7 +9,7 @@
 
 Dokumen ini berisi penjelasan mengenai tata cara kerja, perangkat yang digunakan dan hal hal lain yang relevan dengan pekerjaan sehari hari yang dilakukan oleh tim pengembang di Public Website.
 
-Dokumen ini terbagi ke dalam beberapa bagian utama
+Dokumen ini terbagi ke dalam beberapa bagian utama, yaitu:
 
 - 📚 [Panduan dan konsep dasar _Programming_](programming-concepts.md)
 
