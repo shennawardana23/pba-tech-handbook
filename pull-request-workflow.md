@@ -52,6 +52,22 @@ Untuk repository yang tidak akan mengalami banyak pengembangan ( one and done ),
   - [change] deskripsi *update* yang dilakukan
   - [fix] deskripsi perbaikan yang dilakukan
   - [refact] deskripsi perubahan yang lebih optimal
+</br>
 - [Git Cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [Rewrite Commit History](https://git-scm.com/book/id/v2/Git-Tools-Rewriting-History)
 - [Squash Published Commits](https://stackoverflow.com/questions/5667884/how-to-squash-commits-in-git-after-they-have-been-pushed)
+
+- **Template Pull Request**
+
+```## Explain what your PR does
+
+## To which Ora's link' ticket is PR dedicated?
+
+## How should one manually test this ticket?
+
+## Deployment notes (migrations, envs, etc.)
+
+## Screenshots (postman, feature, or anything related.)
+
+## Others?
+```
