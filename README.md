@@ -5,7 +5,7 @@
 ![status](https://img.shields.io/badge/status-review-yellow)
 <!-- ![status](https://img.shields.io/badge/status-up-brightgreen) -->
 
-# Public Website Tech Handbook
+# Public Website Team
 
 Dokumen ini berisi penjelasan mengenai tata cara kerja, perangkat yang digunakan dan hal hal lain yang relevan dengan pekerjaan sehari hari yang dilakukan oleh tim pengembang di Public Website.
 
