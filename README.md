@@ -7,8 +7,6 @@
 
 # Public Website Tech Handbook
 
---
-
 Dokumen ini berisi penjelasan mengenai tata cara kerja, perangkat yang digunakan dan hal hal lain yang relevan dengan pekerjaan sehari hari yang dilakukan oleh tim pengembang di Public Website.
 
 Dokumen ini terbagi ke dalam beberapa bagian utama
