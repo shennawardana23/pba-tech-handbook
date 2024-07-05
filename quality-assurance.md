@@ -1,4 +1,4 @@
-# Panduan untuk *Quality Assurance*
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Panduan untuk *Quality Assurance*
 
 Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Arch Public Website Dev.
 
@@ -10,7 +10,7 @@ Alur *Quality Assurance* yang dilakukan saat ini adalah sebagai berikut:
 
 1. Membuat dokumen tes untuk masing-masing *user story* pada sprint terkait
 2. Melakukan PR Review dan memastikan sistem yang dibangun sudah sesuai dengan *acceptance criteria*
-3. Membangun *E2E Automation Test* untuk setiap *user story* yang sudah masuk kedalam *staging server*
+3. Membangun *E2E Automation Test* untuk setiap *user story* yang sudah masuk kedalam *prod server*
 4. Melakukan Demo/UAT untuk masing-masing *user story* pada saat *sprint review*
 5. Membuat *Release Notes* untuk setiap *user story* / *bugfix* ketika melakukan release ke *production server*
 
@@ -18,7 +18,7 @@ Alur *Quality Assurance* yang dilakukan saat ini adalah sebagai berikut:
 
 ### Dokumen Tes
 
-Dokumen tes dibuat dengan menggunakan *Azure DevOps - Test Plan*.
+Dokumen tes dibuat dengan menggunakan *Google Doc - Test Plan*.
 Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan dokumen tes adalah:
 
 - Pastikan setiap *sprint* memiliki 1 *test plan*. Setiap *test plan* akan berisi *test suite* sebanyak *user story* pada *sprint* terkait. Setiap *test suite* akan berisi beberapa *test case* berdasarkan *acceptance criteria* dan skenario yang dibutuhkan untuk mengatasi berbagai kondisi.
@@ -44,8 +44,6 @@ Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan *E2E Automationt 
 - Pastikan *E2E Automation Test* yang dibangun berdasarkan dokumen tes dan dapat dijalankan berulang kali
 - Sebelum menjalankan *E2E Automation Test*, Pastikan data yang dibutuhkan tersedia, apabila diperlukan buat data *dummy* terlebih dahulu
 - Selain berdasarkan dokumen tes (per *sprint*), disarankan untuk membangun *E2E Automation Test* per modul juga untuk mempermudah dalam melakukan *regression test*
-
-Lihat deskripsi selengkapnya di [Panduan E2E AT Development](https://github.com/medigoid/tech-handbook/blob/master/e2e-automate-test-development.md)
 
 ---
 
@@ -84,9 +82,9 @@ Tim *QA* juga berhak melakukan *Decline Pull Request* dengan ketentuan sebagai b
 
 - Tidak ada *File Changes* di dalam *Pull Request* (*File Changes 0*).
 - *File Duplicate*. Jika terdapat 2 PR berisi *file changes* yang sama, maka salah satu dapat di *Decline*. Dan pastikan bahwa terdapat penjelasan *pull request* yang di *decline* terkait atau sama dengan *pull request* mana.
-- Jumlah *file changes* terlalu banyak. Ada ketentuan maksimal jumlah *file changes* dalam 1 *Pull Request* :
-  - *Web dan IOS : +/- 50 file changes*
-  - *Android     : +/- 30 file changes*
+- Jumlah *file changes* terlalu banyak. Ada ketentuan maksimal jumlah *file changes* dalam 1 *Pull Request*.
+  <!-- - *Web dan IOS : +/- 50 file changes*
+  - *Android     : +/- 30 file changes* -->
 - Tidak ada *description* didalam *pull request*. Minimal harus ada *Commit messages*
 - Sebelum melakukan *decline*, komunikasikan terlebih dahulu dengan developer yang bersangkutan.
 

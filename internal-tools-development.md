@@ -1,4 +1,4 @@
-# Panduan untuk *Internal Tools Developer*
+# <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="20" /> Panduan untuk *Internal Tools Developer*
 
 Bagian ini berisi mengenai panduan untuk membuat kode, menggunakan *third-party tools*, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan dalam membuat *internal tools* di Arch Public Website Dev.
 
@@ -19,3 +19,8 @@ Lihat deskripsi selengkapnya di [Panduan Appsmith]()
 Lihat deskripsi selengkapnya di [Panduan FormIO]()
 
 ---
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>

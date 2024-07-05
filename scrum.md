@@ -1,10 +1,10 @@
-# Panduan SCRUM
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Panduan SCRUM
 
-Bagian ini berisi tentang proses SCRUM yang berjalan di Arch Public Website D, dan penerapannya di sistem kolaborasi yang digunakan
+Bagian ini berisi tentang proses SCRUM yang berjalan di Arch Public Website Dev, dan penerapannya di sistem kolaborasi yang digunakan
 
 ---
 
-### SCRUM @Arch Public Website D
+### SCRUM @Arch Public Website Dev
 
 SCRUM di Arch Public Website Dev terbagi ke dalam beberapa proses utama
 
@@ -23,13 +23,13 @@ increments.
 
 ---
 
-### Ora Devops @Arch Public Website D
+### Ora Devops @Arch Public Website Dev
 
-Dalam proses menjalankan SCRUM,Arch Public Website D menggunakan sistem kolaborasi yang bernama Ora.
+Dalam proses menjalankan SCRUM, Arch Public Website Dev menggunakan sistem kolaborasi yang bernama Ora.
 **JENIS TASK**
 
 - _**Story**_ : pekerjaan terkait fitur yang akan dikembangkan
-- _**Task**_ : pekerjaan kecil pendukung fitur / pecahan _Story_ yang akan dikembangkan
+- _**SubTask**_ : pekerjaan kecil pendukung fitur / pecahan _Story_ yang akan dikembangkan
 - _**Bug**_ : pekerjaan terkait ketidaksesuaian atau kesalahan dalam fitur yang telah dikembangkan
 - _**Hotfix**_ : adalah _Bug_ yang muncul saat sistem telah digunakan ( _in production_ ) dan harus segera diselesaikan secepatnya.
 - _**Improvement**_ : pekerjaan yang akan memperbagus fitur yang telah dikembangkan
@@ -52,4 +52,4 @@ Dalam proses menjalankan SCRUM,Arch Public Website D menggunakan sistem kolabora
 - _**P2**_
 - _**P3**_
 
-Selengkapnya dapat dilihat di dokumen [Priority Level Structure](https://docs.klinikpintar.id/share/98226c2f-0dcb-4079-a5f7-717c39cb7a22)
+---
