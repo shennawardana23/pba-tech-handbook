@@ -23,7 +23,7 @@ increments.
 
 ---
 
-### Ora Devops @Arch Public Website Dev
+### Ora @Arch Public Website Dev
 
 Dalam proses menjalankan SCRUM, Arch Public Website Dev menggunakan sistem kolaborasi yang bernama Ora.
 **JENIS TASK**
@@ -51,5 +51,7 @@ Dalam proses menjalankan SCRUM, Arch Public Website Dev menggunakan sistem kolab
 - _**P1**_
 - _**P2**_
 - _**P3**_
+
+Bacaan lebih lanjut: [On boarding Scrum Team](https://drive.google.com/file/d/1AQRMbmMKXbarZWmPWQEsL7fEDuB6CAie/view?usp=sharing)
 
 ---

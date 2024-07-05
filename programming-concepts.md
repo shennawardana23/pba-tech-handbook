@@ -147,6 +147,25 @@ Bacaan lebih lanjut :
 
 ---
 
+#### Unit Test (Test Driven Development)
+
+- **The Three Laws of TDD**
+Sekarang semua orang tahu bahwa TDD meminta kita untuk menulis unit test terlebih dahulu sebelum menulis kode produksi. Namun, aturan tersebut hanyalah puncak gunung es. Pertimbangkan tiga hukum berikut ini:
+Hukum Pertama Anda tidak boleh menulis kode produksi sampai Anda telah menulis unit test yang gagal.
+Hukum Kedua Anda tidak boleh menulis lebih banyak unit test daripada yang cukup untuk gagal, dan tidak
+penumpukan yang gagal.
+Hukum Ketiga Anda tidak boleh menulis kode produksi lebih dari yang cukup untuk lulus tes yang sedang gagal.
+- **F.I.R.S.T.**
+Tes yang bersih mengikuti lima aturan lain yang membentuk akronim di atas:
+**Fast** Tes harus cepat. Tes harus berjalan dengan cepat. Jika pengujian berjalan lambat, Anda tidak akan sering menjalankannya. Jika Anda tidak sering menjalankannya, Anda tidak akan menemukan masalah yang cukup dini untuk memperbaikinya dengan mudah. Anda tidak akan merasa bebas untuk membersihkan kode. Pada akhirnya kode tersebut akan mulai membusuk.
+**Independent** Tes tidak boleh bergantung satu sama lain. Satu tes tidak boleh mengatur kondisi untuk tes berikutnya. Anda harus dapat menjalankan setiap pengujian secara independen dan menjalankan pengujian dalam urutan apa pun yang Anda inginkan. Ketika pengujian bergantung satu sama lain, maka pengujian pertama yang gagal akan menyebabkan serangkaian kegagalan pada pengujian berikutnya, sehingga menyulitkan diagnosis dan menyembunyikan cacat pada pengujian berikutnya.
+**Repeatable** Pengujian harus dapat diulang dalam lingkungan apa pun. Anda harus dapat menjalankan pengujian di lingkungan produksi, di lingkungan QA, dan di laptop Anda saat perjalanan pulang ke rumah dengan kereta api tanpa jaringan. Jika pengujian Anda tidak dapat diulang di lingkungan mana pun, maka Anda akan selalu memiliki alasan mengapa pengujian tersebut gagal. Anda juga akan mendapati diri Anda tidak dapat menjalankan pengujian ketika lingkungan tidak tersedia.
+**Self-Validating** Pengujian harus memiliki keluaran boolean. Entah mereka lulus atau gagal. Anda
+Anda tidak perlu membaca file log untuk mengetahui apakah tes tersebut lulus atau tidak. Anda tidak perlu membandingkan secara manual dua file teks yang berbeda untuk mengetahui apakah tes tersebut lulus atau tidak. Jika tes tidak memvalidasi sendiri, maka kegagalan dapat menjadi subjektif dan menjalankan tes dapat memerlukan evaluasi manual yang panjang.
+**Timely** Pengujian harus ditulis secara tepat waktu. Unit test harus ditulis tepat sebelum kode produksi yang membuatnya lulus. Jika Anda menulis tes setelah kode produksi, maka Anda mungkin akan menemukan kode produksi yang sulit untuk diuji. Anda mungkin memutuskan bahwa beberapa kode produksi terlalu sulit untuk diuji. Anda mungkin tidak mendesain kode produksi agar dapat diuji.
+
+--
+
 ### Konsep OOP
 
 Beberapa konsep utama yang harus dipahami dari sebuah paradigma OOP ( *Object Oriented Programming* ) adalah :
