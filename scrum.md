@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Panduan SCRUM
 
-Bagian ini berisi tentang proses SCRUM yang berjalan di Arch Public Website Dev, dan penerapannya di sistem kolaborasi yang digunakan
+Bagian ini berisi tentang proses SCRUM yang berjalan di Arch Public Website Dev, dan penerapannya di sistem kolaborasi yang digunakan.
 
 ---
 

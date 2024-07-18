@@ -5,6 +5,12 @@
 ![status](https://img.shields.io/badge/status-review-yellow)
 <!-- ![status](https://img.shields.io/badge/status-up-brightgreen) -->
 
+<p align="center">
+   Indonesia
+  ｜
+  <a href="https://github.com/shennawardana23/pba-tech-handbook/master/en/README.md">English</a>
+</p>
+
 # Public Website **Developer**
 
 Dokumen ini berisi penjelasan mengenai tata cara kerja, perangkat yang digunakan dan hal hal lain yang relevan dengan pekerjaan sehari hari yang dilakukan oleh tim pengembang di Public Website.
@@ -17,7 +23,7 @@ Bagian ini berisi rangkuman dan referensi dasar dasar pemrograman bagi tim tekni
 
 ---
 
-- 📚 [Panduan untuk _Internal Tools Developer_](internal-tools-development.md)
+- 📚 [_Internal Tools Developer_](internal-tools-development.md)
 
 Bagian ini berisikan Internal tools yang digunakan Arch Public Website Dev.
 
@@ -41,12 +47,12 @@ Bagian ini berisi tentang deskripsi dokumen analisis yang ada di Arch Public Web
 
 ---
 
-- 📚 [Panduan untuk e2e Automation Test](e2e-automate-test-development.md)
+- 📚 [Panduan untuk _E2E Automation Test_](e2e-automate-test-development.md)
 
 Bagian ini berisi tentang deskripsi untuk melakukan end to end testing, proses dan kesepakatan yang berlaku di Arch Public Website Dev.
 
 ---
 
-- 📚 [Panduan SCRUM](scrum.md)
+- 📚 [Panduan _SCRUM_](scrum.md)
 
 Bagian ini berisi tentang proses SCRUM yang berjalan di Arch Public Website Dev, dan penerapannya di sistem kolaborasi yang digunakan.

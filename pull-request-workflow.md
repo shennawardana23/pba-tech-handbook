@@ -30,7 +30,7 @@ Pilihan nama *branch* yang dapat digunakan adalah
 
 - **story**/[nomor Ora] [deskripsi]
 
-> Untuk *Story* yang dirasa terlalu besar, pecah ke dalam *Task* yang lebih kecil untuk kemudian di merge ke *branch* `story` sebelum melakukan *Pull Request* ke *branch* `develop`
+> Untuk ***Story*** yang dirasa terlalu besar, pecah ke dalam *Task* yang lebih kecil untuk kemudian di merge ke *branch* `story` sebelum melakukan *Pull Request* ke *branch* `develop`
 
 - **task**/[nomor Ora] [deskripsi]
 - **improvement**/[nomor Ora] [deskripsi]

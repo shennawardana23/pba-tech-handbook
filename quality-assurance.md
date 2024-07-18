@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Panduan untuk *Quality Assurance*
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Panduan untuk Quality Assurance
 
 Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Arch Public Website Dev.
 
@@ -99,11 +99,11 @@ Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan *Release Notes* a
 - Outline dari *Release Notes* adalah sebagai berikut:
   - [H1] Apa yang baru?
     - [H2] Modul - Fitur 1
-  - [H1] Apa yang berubah?
-    - [H2] *Improvements*
-      - [H3] *Improvements* Modul 1 - Keterangan *Improvements*
+  - [H2] Apa yang berubah?
+    - [H1] *Improvements*
+      - [H2] *Improvements* Modul 1 - Keterangan *Improvements*
     - [H2] *Fixes*
-      - [H3] *Fixes* Modul 1 - Keterangan *Fixes*
+      - [H1] *Fixes* Modul 1 - Keterangan *Fixes*
 - Pastikan untuk menambahkan *screenshot* gambar atau gif untuk menjelaskan langkah - langkah menjalankan fitur baru atau *improvements* fitur lainnya
 - Setelah *Release Notes* selesai dibuat, pastikan untuk memberi info kepada *stakeholder* terkait atau bagikan dokumen *Release Notes* melalui Arch Public Website Dev *Google Chat Space* pada thread *Release Notes*
 
