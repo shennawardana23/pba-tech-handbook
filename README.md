@@ -5,10 +5,10 @@
 ![status](https://img.shields.io/badge/status-review-yellow)
 <!-- ![status](https://img.shields.io/badge/status-up-brightgreen) -->
 
-<p align="center">
+<p align="right">
    Indonesia
   ｜
-  <a href="https://shennawardana23.github.io/pba-tech-handbook/en/README.md">English</a>
+  <a href="en/README.md">English</a>
 </p>
 
 # Public Website **Developer**
