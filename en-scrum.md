@@ -1,5 +1,9 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Guidelines in SCRUM
 
+<p align="right">
+   <a href="en-README.md" >Back</a>
+</p>
+
 This section contains the SCRUM process that runs on Arch Public Website Dev, and its implementation in the collaboration system used.
 
 ---
