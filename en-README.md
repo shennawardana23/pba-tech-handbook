@@ -5,11 +5,7 @@
 ![status](https://img.shields.io/badge/status-review-yellow)
 <!-- ![status](https://img.shields.io/badge/status-up-brightgreen) -->
 
-<p align="right">
-   <a href="README.md" >Indonesia</a>
-  ｜
-  English
-</p>
+[Indonesia](README.md)｜ English
 
 # Public Website **Developer**
 
