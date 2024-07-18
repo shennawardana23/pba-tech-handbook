@@ -6,7 +6,7 @@
 <!-- ![status](https://img.shields.io/badge/status-up-brightgreen) -->
 
 <p align="center">
-   <a href="https://github.com/shennawardana23/pba-tech-handbook" >Indonesia</a>
+   <a href="https://shennawardana23.github.io/pba-tech-handbook" >Indonesia</a>
   ｜
   English
 </p>
