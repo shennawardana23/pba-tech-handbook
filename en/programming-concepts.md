@@ -29,9 +29,9 @@ The concept of *Clean Code* has several interpretations and characteristics, inc
 
 Read more:
 
-[Clean Code : A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+[Clean Code : A Handbook of Agile Software Craftsmanship](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[High Quality Code for Better Programmers](<https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better> -programmer)
+[High Quality Code for Better Programmers](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
 ---
 
@@ -57,11 +57,11 @@ The principles for creating easy-to-read code are:
 
 Read more:
 
-[The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
+[The Art of Readable Code](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[Write Elegant Code](https://code.tutsplus.com/articles/writing-elegant-and-readable-code--mobile-21514)
+[Write Elegant Code](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[Write Cleaner Code](https://www.codeschool.com/blog/2015/09/29/10-ways-to-write-cleaner-code/)
+[Write Cleaner Code](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
 ---
 
@@ -141,9 +141,9 @@ Software design principles that encourage separation and reduce dependencies bet
 
 Read more:
 
-[SOLID : Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+[SOLID : Object Oriented Design](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
-[SOLID, GRASP and other principles of OOP](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o)
+[SOLID, GRASP and other principles of OOP](https://drive.google.com/drive/u/0/folders/1NFAgCa7aAdRPFsxBy2RC7Sjhx4tSYfPP)
 
 ---
 
