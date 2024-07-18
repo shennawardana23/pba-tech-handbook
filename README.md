@@ -8,7 +8,7 @@
 <p align="center">
    Indonesia
   ｜
-  <a href="https://github.com/shennawardana23/pba-tech-handbook/master/en/README.md">English</a>
+  <a href="en/README.md">English</a>
 </p>
 
 # Public Website **Developer**
